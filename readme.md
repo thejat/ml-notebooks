@@ -1,0 +1,99 @@
+# Machine Learning and Statistical Methods for Business Analytics
+### <center> IDS 575 </center> 
+
+
+## Overview
+
+The goal of this class is to cover the foundations of modern statistics and machine learning methods complementing the data mining focus of IDS 572. In other words, you will get up to speed with the requisite background, as well as the key theoretical underpinnings of modern analytics. We will do so through the lens of statistical machine learning. Lectures will be complemented with hands-on exercises.
+
+## Previous Versions
+
+ - [Spring 2019](https://chicagodatascience.github.io/s19/575/) (has videos!)
+ - [Spring 2018](https://chicagodatascience.github.io/s18/575/) (has videos!)
+ - [Fall 2017](https://chicagodatascience.github.io/f17/575/) (has videos!)
+
+## Logistics
+
+ - Semester: Spring 2022
+ - Lectures: Mondays 3.00 PM to 5.30 PM at DH 210
+ - Staff
+    - Instructor: [Dr. Theja Tulabandhula](https://theja.org) 
+    - Teaching Assistant: [Parshan Pakiman](https://parshanpakiman.github.io/)
+ - Offline communication:
+    - Instructor Office Hours: Thursays 2.30 to 3.30 PM at UH 2404
+    - TA Lab Sessions and Office Hours: TBD
+
+## Textbook and Slides
+
+ - Textbook I: [Elements of Statistical Learning II](http://web.stanford.edu/~hastie/ElemStatLearn/).
+ - Textbook II: [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/).
+ - [Slides](https://www.dropbox.com/sh/5inrhmbf4h6xpw4/AACLlx0a7GZgbdQ4wOpt-36ha?dl=0)
+
+## Additional Materials
+
+ - [Business Analytics in the Industry](https://github.com/firmai/industry-machine-learning)
+ - [Refresher on Probability](https://www.youtube.com/playlist?list=PLzq3B7Hh4uva2qkiTJHjWMkdg_Ng2KYgb)
+ - [Refresher on Linear Algebra](https://www.youtube.com/playlist?list=PLzq3B7Hh4uvZpOMDIpBWtOHsgnK0LLkJ-)
+ - [Calculus refresher pdf 1](http://pages.stat.wisc.edu/~ifischer/calculus.pdf)
+ - [Calculus refresher pdf 2](https://www.stat.washington.edu/~handcock/505/Lectures/lec6.pdf)
+ - [Probability refresher 1](http://www.wzchen.com/s/probability_cheatsheet.pdf) [source](https://github.com/wzchen/probability_cheatsheet)
+ - [Probability refresher 2](https://github.com/shervinea/stanford-cme-106-probability-and-statistics/blob/master/cheatsheet-probability.pdf)
+ - [Linear Algebra refresher 1](http://cs229.stanford.edu/section/cs229-linalg.pdf)
+ - [Linear Algebra refresher 2](https://laurentlessard.com/teaching/ece532/cheat_sheet.pdf)
+ - [Machine Learning Mindmap](https://github.com/dformoso/machine-learning-mindmap)
+ - [Rules of ML by Martin Zinkevich](https://developers.google.com/machine-learning/guides/rules-of-ml/)
+ - [XGBoost](https://github.com/dmlc/xgboost), [LightGBM](https://github.com/microsoft/LightGBM) and [Catboost](https://github.com/catboost/catboost) implementations.
+
+
+## Tentative List of Topics
+
+### Supervised Learning (mostly about prediction)
+
+ - Instance-based Learning
+ - k-Nearest Neighbor Decision Trees
+ - Linear regression, Logistic Regression
+ - Generalized Linear Models
+ - Model Selection and Assessment
+ - Support Vector machines and Duality
+ - Naïve-Bayes and Linear Discriminant Analysis
+ - Hidden Markov Models
+ - Structured Prediction Models
+ - Statistical Learning Theory
+
+### Unsupervised Learning (mostly about exploration)
+
+ - K-means clustering
+ - Mixture of Gaussian
+ - Principal Component Analysis
+ - Independent Component Analysis
+ - Canonical Correlation Analysis
+
+## Assignments and Project
+
+### Groups
+
+You should form groups of (strictly) 4 students for the assignment and project components. Reach out to your classmates early. [Here](https://docs.google.com/spreadsheets/d/1skD4q-x_sj__9CUuzT41t1QGZwHflD-RyjExpOVl8Mk/edit?usp=sharing) is a spreadsheet to facilitate this.
+
+
+### Assignments
+
+There will be five assignments, released on Github. These involve reimplementing statistical techniques and understanding their behavior on interesting datasets.  Always mention external sources used in your assignment solutions. Submission deadline is BEFORE 11.59 PM on the concerned day. Late submissions will have an automatic 20% penalty per day, and no extensions are available. Use [Blackboard](https://uic.blackboard.com/) for uploads. Because this is a group assignment, a commensurate effort is expected, and each member's contributions needs to be reported in the final submission.
+
+### Project
+
+The objective will be to demonstrate mastery over data ingestion, processing, prediction modeling and communication of key results. A suitable documentation of this process along with the complete set of scripts/codes/dataset samples/commands used is to be submitted. See the [project page]() for more detailed instructions. Because this is a group project, a commensurate effort is expected, and each member's contributions needs to be reported in the final submission.
+
+
+## Grades
+
+ - Assignments: 12% + 12% + 12% + 12% + 12% 
+ - Project: 30%
+ - Course participation: 10% (includes but is not limited to attendance, interaction with the instructor and the TA, and how well you support your group).
+
+## Miscellaneous Information
+
+ - This is a 4 credit graduate level course offered by the Information and Decision Sciences department at UIC.
+ - Please see the [academic calendar](http://catalog.uic.edu/ucat/academic-calendar/) for the semester timeline.
+ - Students who wish to observe their religious holidays (http://oae.uic.edu/religious-calendar/) should notify the instructor within one week of the first lecture date. 
+ - Please contact the instructor at the earliest, if you require accommodations for access to and/or participation in this course.
+ - Please refer to the academic integrity guidelines set by the university.
