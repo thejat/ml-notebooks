@@ -23,13 +23,40 @@ The goal of this class is to cover the foundations of modern statistics and mach
     - Instructor Office Hours: Thursays 2.30 to 3.30 PM at UH 2404
     - TA Lab Sessions and Office Hours: TBD
 
-## Textbook and Slides
+### Dates
+
+ - 01/10: lecture (online only)
+ - 01/24: lecture
+ - 01/31: lecture
+ - 02/06: assignment 1 due
+ - 02/07: lecture (online only)
+ - 02/14: lecture
+ - 02/20: assignment 2 due
+ - 02/21: lecture
+ - 02/27: project intermediate report+code due including project plan
+ - 02/28: lecture slot for separate team meetings with teaching staff on projects (online only)
+ - 03/06: assignment 3 due
+ - 03/07: lecture
+ - 03/14: lecture
+ - 03/27: assignment 4 due
+ - 03/28: lecture
+ - 04/04: lecture
+ - 04/10: assignment 5 due
+ - 04/11: lecture
+ - 04/17:  project final report+code due
+ - 04/18: lecture slot for live student project presentations I (online only)
+ - 04/28: lecture slot for live student project presentations II (online only)
+
+
+## Materials
+
+### Textbook and Slides
 
  - Textbook I: [Elements of Statistical Learning II](http://web.stanford.edu/~hastie/ElemStatLearn/).
  - Textbook II: [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/).
  - [Slides](https://www.dropbox.com/sh/5inrhmbf4h6xpw4/AACLlx0a7GZgbdQ4wOpt-36ha?dl=0)
 
-## Additional Materials
+### Additional Readings
 
  - [Business Analytics in the Industry](https://github.com/firmai/industry-machine-learning)
  - [Refresher on Probability](https://www.youtube.com/playlist?list=PLzq3B7Hh4uva2qkiTJHjWMkdg_Ng2KYgb)
