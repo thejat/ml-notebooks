@@ -114,8 +114,8 @@ The objective will be to demonstrate mastery over data ingestion, processing, pr
 ## Grades
 
  - Assignments: 12% + 12% + 12% + 12% + 12% 
- - Project: 5% for intermediate report and 25% for the final (more details in the project page linked above)
- - Course participation: 10% (includes but is not limited to attendance, interaction with the instructor and the TA, and how well you support your group).
+ - Project: 5% for intermediate report and 30% for the final (more details in the project page linked above)
+ - Course participation: 5% (includes but is not limited to attendance, interaction with the instructor and the TA, and how well you support your group).
 
 ## Miscellaneous Information
 
