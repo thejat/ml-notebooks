@@ -81,13 +81,13 @@ There will be five assignments, released on Github. These involve reimplementing
 
 ### Project
 
-The objective will be to demonstrate mastery over data ingestion, processing, prediction modeling and communication of key results. A suitable documentation of this process along with the complete set of scripts/codes/dataset samples/commands used is to be submitted. See the [project page]() for more detailed instructions. Because this is a group project, a commensurate effort is expected, and each member's contributions needs to be reported in the final submission.
+The objective will be to demonstrate mastery over data ingestion, processing, prediction modeling and communication of key results. A suitable documentation of this process along with the complete set of scripts/codes/dataset samples/commands used is to be submitted. See the [project page](project.ipynb) for more detailed instructions. Because this is a group project, a commensurate effort is expected, and each member's contributions needs to be reported in the final submission.
 
 
 ## Grades
 
  - Assignments: 12% + 12% + 12% + 12% + 12% 
- - Project: 30%
+ - Project: 5% for intermediate report and 25% for the final (more details in the project page linked above)
  - Course participation: 10% (includes but is not limited to attendance, interaction with the instructor and the TA, and how well you support your group).
 
 ## Miscellaneous Information
