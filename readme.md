@@ -21,7 +21,7 @@ The goal of this class is to cover the foundations of modern statistics and mach
     - Teaching Assistant: [Parshan Pakiman](https://parshanpakiman.github.io/)
  - Offline communication:
     - Instructor Office Hours: Thursays 2.30 to 3.30 PM at UH 2404
-    - TA Recitations and/or Office Hours: Mondays 6.30 to 7.30 PM on Zoom (see Blackboard)
+    - TA Recitations and/or Office Hours: Mondays 6.30 to 7.30 PM on [Zoom](https://uic.zoom.us/j/87992155958?pwd=TVhmMm05Q05UVUl3bFhEcEl0cUVjZz09)
 
 ### Dates
 
