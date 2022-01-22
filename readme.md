@@ -61,7 +61,7 @@ The goal of this class is to cover the foundations of modern statistics and mach
  - [Business Analytics in the Industry](https://github.com/firmai/industry-machine-learning)
  - [Refresher on Probability](https://www.youtube.com/playlist?list=PLzq3B7Hh4uva2qkiTJHjWMkdg_Ng2KYgb)
  - [Refresher on Linear Algebra](https://www.youtube.com/playlist?list=PLzq3B7Hh4uvZpOMDIpBWtOHsgnK0LLkJ-)
- - [Calculus refresher pdf 1](http://pages.stat.wisc.edu/~ifischer/calculus.pdf)
+ - [Calculus refresher pdf 1](http://web.thu.edu.tw/wenwei/www/Courses/calculus/calculus.pdf)
  - [Calculus refresher pdf 2](https://www.stat.washington.edu/~handcock/505/Lectures/lec6.pdf)
  - [Probability refresher 1](http://www.wzchen.com/s/probability_cheatsheet.pdf) [source](https://github.com/wzchen/probability_cheatsheet)
  - [Probability refresher 2](https://github.com/shervinea/stanford-cme-106-probability-and-statistics/blob/master/cheatsheet-probability.pdf)
