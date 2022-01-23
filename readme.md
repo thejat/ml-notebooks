@@ -53,7 +53,7 @@ The goal of this class is to cover the foundations of modern statistics and mach
 ### Textbook and Slides
 
  - Textbook I: [Elements of Statistical Learning II](http://web.stanford.edu/~hastie/ElemStatLearn/).
- - Textbook II: [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/).
+ - Textbook II: [An Introduction to Statistical Learning with Applications in R](https://trevorhastie.github.io/ISLR/ISLR%20Seventh%20Printing.pdf).
  - [Slides](https://www.dropbox.com/sh/5inrhmbf4h6xpw4/AACLlx0a7GZgbdQ4wOpt-36ha?dl=0)
 
 ### Additional Readings
