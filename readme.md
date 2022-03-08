@@ -38,14 +38,14 @@ The goal of this class is to cover the foundations of modern statistics and mach
  - 03/06: assignment 3 due
  - 03/07: lecture
  - 03/14: lecture
- - 03/27: assignment 4 due
  - 03/28: lecture
+ - 03/28: assignment 4 due (*New: same day as lecture*)
  - 04/04: lecture
- - 04/10: assignment 5 due
  - 04/11: lecture
+ - 04/11: assignment 5 due (*New: same day as lecture*)
  - 04/17:  project final report+code due
  - 04/18: lecture slot for live student project presentations I (online only)
- - 04/28: lecture slot for live student project presentations II (online only)
+ - 04/25: lecture slot for live student project presentations II (online only)
 
 
 ## Materials
